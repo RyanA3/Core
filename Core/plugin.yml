@@ -1,0 +1,11 @@
+name: Core
+main: me.felnstaren.core.Core
+version: 0.1a
+author: Felnstaren
+description: Adds a plethora of new features
+api-version: 1.14
+
+commands:
+ cgive:
+  aliases: []
+  description: Cheat in custom Core items
